@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+/* 
+.span[uk-icon=*] svg{
+  color:black;
+}
+
+.span[uk-icon=*] svg path{
+  fill: green;
+} */
+@media (max-width: 768px) {
+  .responsive-block {
+       font-size: 150%; /* or 2.5em etc, just example */
+  }
+}
